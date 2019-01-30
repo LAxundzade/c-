@@ -1,0 +1,7 @@
+c:\users\leman\source\repos\bankomat\test\bin\Debug\test.exe.config
+c:\users\leman\source\repos\bankomat\test\bin\Debug\test.exe
+c:\users\leman\source\repos\bankomat\test\bin\Debug\test.pdb
+c:\users\leman\source\repos\bankomat\test\obj\Debug\test.csprojAssemblyReference.cache
+c:\users\leman\source\repos\bankomat\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+c:\users\leman\source\repos\bankomat\test\obj\Debug\test.exe
+c:\users\leman\source\repos\bankomat\test\obj\Debug\test.pdb
